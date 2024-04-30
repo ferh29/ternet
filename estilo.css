@@ -1,0 +1,572 @@
+.img{
+    height: 320px;
+    width: 320px;
+    border: 5px solid yellowgreen;
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img1{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(37,41,43);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img2{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(28,139,198);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img3{
+    height: 320px;
+    width: 320px;
+    border: 5px solid maroon;
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img4{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(245,206,46);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img5{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(73,162,89);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img6{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(93,43,197);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img7{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgba(238, 10, 21, 0.788);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img8{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(46,51,107);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img9{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgba(22, 21, 20, 0.685);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img10{
+    height: 320px;
+    width: 320px;
+    border: 5px solid rgb(98, 255, 31);
+    margin-top: 10px;
+    position: relative;
+    left: 100px;
+    margin-bottom: 10px;
+}
+
+.img1:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img2:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img3:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img4:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img5:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img6:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img7:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img8:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img9:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.img10:hover{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 18px;
+}
+
+.divtitulo{
+    display: block;
+    border: 8px solid rgb(43, 43, 43);
+}
+
+.divimg{
+    display: block;
+    border-top: 8px solid rgb(43, 43, 43);
+}
+
+.titulo{
+    font-display: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    color:white;
+    text-decoration: underline yellowgreen;
+}
+
+.divprinc{
+    border: 5px solid rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: auto; margin-right: auto;
+    margin-top: 85px;
+    width: 1910px;
+}
+
+.divprinctexto{
+    display: inline-block;
+    position: relative;
+    bottom: 645px;
+    margin-top: -35px;
+    margin-bottom: 50px;
+}
+
+.img1maior{
+    height: 500px;
+    width: 500px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img2maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img3maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img4maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img5maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img6maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img7maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img8maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img9maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.img10maior{
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-bottom: -20px;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.titulopagina1{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(37,41,43);
+}
+
+.titulopagina2{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(28,139,198);
+}
+
+.titulopagina3{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline maroon;
+}
+
+.titulopagina4{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(245,206,46);
+}
+
+.titulopagina5{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(73,162,89);
+}
+
+.titulopagina6{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(93,43,197);
+}
+
+.titulopagina7{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgba(238, 10, 21, 0.788);
+}
+
+.titulopagina8{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 520px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(46,51,107)
+}
+
+.titulopagina9{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgba(22, 21, 20, 0.685);
+}
+
+.titulopagina10{
+    font-display: auto;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 670px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline rgb(98, 255, 31);
+}
+
+.textop1{
+    font-display: auto;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 655px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.textobarbara{
+    font-display: auto;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 500px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.voltardiv{
+    height: 50px;
+    width: 180px;
+    position: relative;
+    left: 170px;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.voltar{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.gif{
+    text-align: center;
+    border: 5px dashed white;
+    margin-bottom: 15px;
+}
+
+.textogif{
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    margin-top: -25px;
+    margin-bottom: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline yellowgreen;
+}
+
+.figure{
+    text-align: center;
+}
+
+.background{
+    background-color: black;
+}
+
+.backgroundpagina1{
+    background-image: url(batmansimbolo.jpg);
+    background-size: 50vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina2{
+    background-image: url(asanoturnasimbolo.jpg);
+    background-size: 60vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0; 
+}
+
+.backgroundpagina3{
+    background-image: url(jasonsimbolo.jpg);
+    background-size: 80vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina4{
+    background-image: url(redrobinsymbol.png);
+    background-size: 15vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina5{
+    background-image: url(damiansymbol.png);
+    background-size: 10vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina6{
+    background-image: url(coringasimbolo.jpg);
+    background-size: 15vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina7{
+    background-image: url(harleysimbolo.jpg);
+    background-size: 15vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina8{
+    background-image: url(simbolobarbara.jpg);
+    background-size: 15vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina9{
+    background-image: url(mulhergatosimbolo.jpg);
+    background-size: 12vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.backgroundpagina10{
+    background-image: url(nygmasimbolo.jpg);
+    background-size: 10vh;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
